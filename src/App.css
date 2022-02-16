@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(228, 227, 227);
+}
+.list{
+  color: rgb(124, 43, 43);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+  text-align: left;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.list :hover{
+  font-size: 2.2rem;
+  color: blue;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+  color: blue;
+}
